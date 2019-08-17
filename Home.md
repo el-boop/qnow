@@ -6,7 +6,7 @@
 </p>
 <p>To enable Google Now in Q Launcher</p>
 <ol>
-<li>Download and install the <a href="https://raw.githubusercontent.com/craftsapp/piepie_now/master/apk/Q_Now.apk">Q Now APK</a></li>
+<li>Download and install the <a href="https://raw.githubusercontent.com/MoreAppTeam/piepie_now/master/apk/Q_Now.apk">Q Now APK</a></li>
 <li>Ensure you are using <a href="https://play.google.com/store/apps/details?id=com.xappteam.qlauncher">Q Launcher 1.2.0</a> or higher</li>
 <li>Go to Q Launcher Settings > Behavior > Enable Google Now page
 </li>
@@ -14,7 +14,7 @@
 
 <p>Note that if you are using infinite scroll, you will only be able to enable Google via "Edge swipe"</p>
 
-<p><a href="https://raw.githubusercontent.com/craftsapp/piepie_now/master/apk/Q_Now.apk">Download Q Now</a></p>
+<p><a href="https://raw.githubusercontent.com/MoreAppTeam/piepie_now/master/apk/Q_Now.apk">Download Q Now</a></p>
 
 <p> . </p>
 <p> . </p>
